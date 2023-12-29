@@ -23,7 +23,7 @@ I'm Anasse DEMNATI , a passionate Software Engineer based in Europe with a focus
 - Building scalable and maintainable e-commerce applications.
 
 ## 📫 How to reach me
-- You can reach out to me on [LinkedIn](your-linkedin-profile-link) or [Twitter](your-twitter-profile-link).
+- You can reach out to me on [LinkedIn]([your-linkedin-profile-link](https://www.linkedin.com/in/anassedemnati/)).
 
 ## 😄 Pronouns
 - He/Him
@@ -35,12 +35,7 @@ I'm Anasse DEMNATI , a passionate Software Engineer based in Europe with a focus
 
 ## GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anassedemnati&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anassedemnati&layout=compact&theme=radical)
 
----
-
-## Commit History
-
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/your-username/your-repository-name)](https://github.com/your-username/your-repository-name/commits)
