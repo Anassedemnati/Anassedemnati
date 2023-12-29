@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**Anassedemnati/Anassedemnati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Your Name], a passionate Software Engineer based in Europe with a focus on e-commerce solutions. I work with a variety of technologies to build scalable and efficient systems.
 
-Here are some ideas to get you started:
+🔭 **Currently working on:** 
+- Building microservices architecture using .NET Core 3.6 and MongoDB.
+- Developing Azure Functions for serverless applications.
+- Enhancing the performance of SQL Server stored procedures for our e-commerce platform.
+- Collaborating with the team on Angular and TypeScript front-end development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Currently learning:** 
+- Exploring the latest features in .NET Core.
+- Deepening my knowledge of microservices architecture and Azure services.
+- Improving my skills in frontend development, especially with Angular.
+
+👯 **Looking to collaborate on:** 
+- Open source projects related to e-commerce or cloud-native technologies.
+- Discussing best practices and solutions for software engineering challenges.
+
+💬 **Ask me about:** 
+- Software architecture and design patterns.
+- .NET Core, Angular, TypeScript, SQL Server, and MongoDB.
+- Building scalable and maintainable e-commerce applications.
+
+📫 **How to reach me:** 
+- You can reach out to me on [LinkedIn](your-linkedin-profile-link) or [Twitter](your-twitter-profile-link).
+
+
+Let's connect and discuss exciting software engineering topics! 🚀
