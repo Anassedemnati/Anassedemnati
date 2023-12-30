@@ -1,6 +1,14 @@
 # Anasse Demnati
 
-[![Anasse's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anassedemnati&show_icons=true)](https://github.com/Anassedemnati)
+<div>
+  <a href="https://github.com/Anassedemnati">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Anassedemnati&show_icons=true" />
+  </a>
+  <a href="https://github.com/Anassedemnati">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anassedemnati&layout=compact&theme=radical" />
+  </a>
+</div>
+<br clear="left"/>
 
 ## 👋 About Me
 📍 **Location:** Casablanca, Morocco
