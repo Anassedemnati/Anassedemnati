@@ -1,41 +1,39 @@
-# Hi there 👋
+# Anasse Demnati
 
-I'm Anasse DEMNATI , a passionate Software Engineer based in Europe with a focus on e-commerce solutions. I work with a variety of technologies to build scalable and efficient systems.
+[![Anasse's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anassedemnati&show_icons=true)](https://github.com/Anassedemnati)
 
-## 🔭 Currently working on
-- Building microservices architecture using .NET Core 3.6 and MongoDB.
-- Developing Azure Functions for serverless applications.
-- Enhancing the performance of SQL Server stored procedures for our e-commerce platform.
-- Collaborating with the team on Angular and TypeScript front-end development.
+## 👋 About Me
+📍 **Location:** Casablanca, Morocco
 
-## 🌱 Currently learning
-- Exploring the latest features in .NET Core.
-- Deepening my knowledge of microservices architecture and Azure services.
-- Improving my skills in frontend development, especially with Angular.
+I'm a Fullstack Software Engineer, I design, develop, and maintain high-quality software solutions that align with our clients' needs. Collaborating closely with other engineers, product managers, and designers, I contribute to building solutions that fulfill business requirements.
 
-## 👯 Looking to collaborate on
-- Open source projects related to e-commerce or cloud-native technologies.
-- Discussing best practices and solutions for software engineering challenges.
+I hold multiple certifications and have a keen interest in web technologies, microservices architecture, micro frontend architecture, and DevOps. Being motivated, passionate, and persistent, I relish learning new technologies and embracing new challenges.
 
-## 💬 Ask me about
-- Software architecture and design patterns.
-- .NET Core, Angular, TypeScript, SQL Server, and MongoDB.
-- Building scalable and maintainable e-commerce applications.
+## 💼 Skills
+![](https://img.shields.io/badge/Azure_DevOps_Server-blue?style=for-the-badge&logo=azuredevops)
+![](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
+![](https://img.shields.io/badge/xUnit-lightgrey?style=for-the-badge&logo=xunit)
+![](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest)
+![](https://img.shields.io/badge/Domain_Driven_Design-DDD?style=for-the-badge)
+![](https://img.shields.io/badge/Microservices-000?style=for-the-badge)
+![](https://img.shields.io/badge/BFF-blue?style=for-the-badge)
+![](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker)
+![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure)
+![](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet)
+![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+![](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react)
 
-## 📫 How to reach me
-- You can reach out to me on [LinkedIn]([your-linkedin-profile-link](https://www.linkedin.com/in/anassedemnati/)).
+## 🌐 Social Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anasse_Demnati-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anassedemnati/)
 
-## 😄 Pronouns
-- He/Him
+<!-- You can add other social links here -->
 
-## ⚡ Fun fact
-- I'm a big fan of board games and enjoy playing them in my free time. Feel free to ask me for recommendations!
+## 📫 How to Reach Me
+- Email: [anassedemnati@gmail.com](mailto:anassedemnati@gmail.com)
+
+<!-- You might add a section for blog posts or recent work if you have such content -->
 
 ---
 
-## GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anassedemnati&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anassedemnati&layout=compact&theme=radical)
-
+Feel free to fork and star my repositories! I appreciate your support and feedback.
