@@ -1,21 +1,20 @@
-# Anasse Demnati
+# 👋 Hi, I'm Anasse Demnati
 
-<div>
+<div align="center">
   <a href="https://github.com/Anassedemnati">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=Anassedemnati&show_icons=true" />
-  </a>
-  <a href="https://github.com/Anassedemnati">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anassedemnati&layout=compact&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anassedemnati&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anassedemnati&layout=compact&theme=radical" />
   </a>
 </div>
-<br clear="left"/>
 
-## 👋 About Me
-📍 **Location:** Casablanca, Morocco
+---
 
-I'm a Fullstack Software Engineer, I design, develop, and maintain high-quality software solutions that align with our clients' needs. Collaborating closely with other engineers, product managers, and designers, I contribute to building solutions that fulfill business requirements.
+## 📍 About Me
+I'm a **Fullstack Software Engineer** based in **Casablanca, Morocco**.  
+I design, develop, and maintain high-quality software solutions that align with business needs.  
+Passionate about **web technologies**, **microservices**, **micro frontends**, and **DevOps** — I’m always eager to learn, share, and take on new challenges.
 
-I hold multiple certifications and have a keen interest in web technologies, microservices architecture, micro frontend architecture, and DevOps. Being motivated, passionate, and persistent, I relish learning new technologies and embracing new challenges.
+---
 
 ## 💼 Skills
 ![](https://img.shields.io/badge/Azure_DevOps_Server-blue?style=for-the-badge&logo=azuredevops)
@@ -26,22 +25,23 @@ I hold multiple certifications and have a keen interest in web technologies, mic
 ![](https://img.shields.io/badge/Domain_Driven_Design-DDD?style=for-the-badge)
 ![](https://img.shields.io/badge/Microservices-000?style=for-the-badge)
 ![](https://img.shields.io/badge/BFF-blue?style=for-the-badge)
-![](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker)
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure)
 ![](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet)
 ![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
 ![](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react)
 
+---
+
 ## 🌐 Social Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anasse_Demnati-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anassedemnati/)
-
-<!-- You can add other social links here -->
-
-## 📫 How to Reach Me
-- Email: [anassedemnati@gmail.com](mailto:anassedemnati@gmail.com)
-
-<!-- You might add a section for blog posts or recent work if you have such content -->
+[![GitHub](https://img.shields.io/badge/GitHub-Anassedemnati-black?style=flat-square&logo=github)](https://github.com/Anassedemnati)
 
 ---
 
-Feel free to fork and star my repositories! I appreciate your support and feedback.
+## 📫 Contact
+📧 [anassedemnati@gmail.com](mailto:anassedemnati@gmail.com)
+
+---
+
+⭐️ *Feel free to fork and star my repositories — your support means a lot!* 🚀
